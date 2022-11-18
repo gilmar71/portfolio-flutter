@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172585672145",
+    "project_id": "portfolio-74048",
+    "storage_bucket": "portfolio-74048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172585672145:android:69b9dcd81b39f31ef494f0",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_gilmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172585672145-sa700lq9uoagfp3nbj37rn5f93p453sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ubw9UNDXK7Hi7f9hLK6Xgr0iKdP4xxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172585672145-sa700lq9uoagfp3nbj37rn5f93p453sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
